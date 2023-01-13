@@ -5,10 +5,4 @@ class HelloWorld {
         System.out.println("Hello, World!"); 
     }
 }
-hello
-arun
-Pradeep 
-Janardhan 
-laxmi
-Aravind 
-sai
+
