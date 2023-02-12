@@ -26,15 +26,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  
-  <dependencies>
-    <dependency>
-      <groupId>myprojectdomain1july</groupId>
-      <artifactId>maven1july</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
-      <packaging>jar</packaging>
-    </dependency>
- </dependencies>   
+     
   <build>
     <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
       <plugins>
